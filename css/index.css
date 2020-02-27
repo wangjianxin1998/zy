@@ -2,7 +2,7 @@
 #recommend{height: 477px;}
 .recommend{margin-left: 246px;
     padding-left: 18px;overflow: hidden;}
-.recommend .ist li{height: 52px;line-height: 52px;
+.recommend .list li{height: 52px;line-height: 52px;
     border-bottom: 1px solid #eee;}
 .recommend .list i{ width: 16px;
     height: 22px;
